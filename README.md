@@ -7,8 +7,4 @@
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-cancelliero)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=y-cancelliero&repo=EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-cancelliero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
